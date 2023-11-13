@@ -1,28 +1,25 @@
 #program to remove white spaces from a text list and 
 #return a clean txt file w/ one word per new line.
-#adj = " "
-#adj_list = []
 
-#def pagereader("adjective_list.txt"):
+
+
 f = open("adjective_list.txt", "r")
 adj = f.read()
 f.close()
 
-#pagereader("adjective_list.txt")
-
 adj = adj.title()
 adj_list = adj.split()
-    #print(adj_list)
-    #print line for troubleshooting steps only
+#print(adj_list)
+#print line for t/s
 
 adj_set = set(adj_list)
-    #print(adj_set)
-    #print line for troubleshooting steps only
+#print(adj_set)
+#print line for t/s
 
 adj_list = sorted(adj_set)
-    #print(adj_list)
-    #print('\n'.join(adj_list))
-    #print line for troubleshooting steps only
+#print(adj_list)
+#print('\n'.join(adj_list))
+#print line for t/s
 
 
 def pagewriter(page_name):
@@ -37,4 +34,14 @@ pagewriter("a_list.txt")
 
 #pagereader("animal_list.txt")
 #pagemaker()
-#pagewriter("b_list.txt")
+
+f = open("animal_list.txt", "r")
+adj = f.read()
+f.close()
+
+adj = adj.title()
+adj_list = adj.split()
+adj_set = set(adj_list)
+adj_list = sorted(adj_set)
+
+pagewriter("b_list.txt")
