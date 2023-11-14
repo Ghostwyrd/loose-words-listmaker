@@ -7,6 +7,7 @@ Alert
 Alive
 Alluring
 Amber
+Ample
 Amused
 Angry
 Annoyed
@@ -108,6 +109,7 @@ Faithful
 Famous
 Fancy
 Fantastic
+Fat
 Fierce
 Filthy
 Fine
@@ -210,6 +212,7 @@ Perfect
 Phantom
 Plain
 Pleasant
+Plump
 Poised
 Pompous
 Poor
@@ -244,6 +247,7 @@ Silent
 Silly
 Sizzling
 Sleepy
+Slender
 Smiling
 Smoggy
 Solitary
