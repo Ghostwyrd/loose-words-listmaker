@@ -10,6 +10,8 @@ Armadillo
 Baboon
 Badger
 Bard
+Barmaid
+Barnacle
 Basil
 Basilisk
 Bat
@@ -22,6 +24,7 @@ Blacksmith
 Blue
 Bluebell
 Boar
+Bottle
 Bramble
 Brill
 Buffalo
@@ -29,15 +32,16 @@ Bull
 Camel
 Carp
 Cat
+Cauldron
 Centaur
 Chameleon
 Cheetah
-Chihuahua
 Chimera
 Chimpanzee
-Chinchillas
+Chinchilla
 Coast
 Cobra
+Corner
 Cow
 Crab
 Crocodile
@@ -46,6 +50,7 @@ Dahlia
 Daisy
 Dandelion
 Deer
+Den
 Dodo
 Dog
 Dolphin
@@ -87,6 +92,7 @@ Haddock
 Hammerhead
 Hamster
 Hare
+Hart
 Harpy
 Hawk
 Hearth
@@ -128,9 +134,11 @@ Mole
 Monitor
 Monkey
 Mouse
+Mug
 Mule
 Nymph
 Orangutan
+Oryx
 Ostrich
 Otter
 Owl
@@ -151,12 +159,14 @@ Possum
 Rabbit
 Racoon
 Rat
+Rest
 Rhinoceros
 Rose
 Rover
+Sailor
 Salamander
 Salmon
-Sardines
+Sardine
 Shark
 Sheep
 Sloth
@@ -166,6 +176,7 @@ Squirrel
 Stone
 Stork
 Swan
+Sword
 Table
 Tailor
 Thistle
@@ -174,6 +185,8 @@ Tinker
 Toad
 Toadstool
 Tortoise
+Traveller
+Trousers
 Tuna
 Turtle
 Unicorn
@@ -181,6 +194,7 @@ Violet
 Vulture
 Walrus
 Wanderer
+Waters
 Weasel
 Whale
 Wolf
