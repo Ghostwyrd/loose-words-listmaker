@@ -1,4 +1,4 @@
-#program removes white spaces from a text list and 
+#program removes white spaces from a page of text and 
 #return a clean txt file w/ one word per new line.
 
 import os
